@@ -1,8 +1,8 @@
 import './App.css'
 
 import {Component} from 'react'
-import CountriesList from './components/CountriesList'
-import VisitedCountries from './components/VisitedCountries'
+import CountriesList from './CountriesList'
+import VisitedCountries from './VisitedCountries'
 
 //This is the list (static data) used in the application. You can move it to any component if needed.
 
